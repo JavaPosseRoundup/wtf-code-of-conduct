@@ -31,9 +31,9 @@ without a refund at the discretion of the conference organizers.
 Points of Contact
 -----------------
 
-We recognize that managing harassment at the Winter Tech Forum is not the job
-of its recipients. The conference organizer and delegated individuals (*contact
-persons*) will make themselves available to address any & all complaints of
+We recognize that enforcing this CoC is not the job
+of those who may be harassed. The conference organizer and delegated individuals (*contact
+persons*) will make themselves available to address all complaints of
 harassment, and the relevant contact information for them will be
 made available to participants on arrival at the conference, during the
 initial meeting.
