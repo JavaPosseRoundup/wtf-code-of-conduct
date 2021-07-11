@@ -31,8 +31,8 @@ without a refund at the discretion of the conference organizers.
 Points of Contact
 -----------------
 
-We recognize that managing harassment at the Winter Tech Forum is not the job
-of its recipients. The conference organizer and delegated individuals (*contact
+We recognize that enforcing this CoC is not the job
+of those who are being harassed. The conference organizer and delegated individuals (*contact
 persons*) will make themselves available to address any & all complaints of
 harassment, and the relevant contact information for them will be
 made available to participants on arrival at the conference, during the
@@ -84,8 +84,12 @@ but it doesn't say what you must do (speak a certain way).
 If You are Having a Hard Time Communicating
 -------------------------------------------
 
-These [Principles of Nonviolent Communication](https://www.cnvc.org/Training/NVC-Concepts)
-might be helpful:
+Here are some suggestions that are especially useful when discussing difficult issues.
+
+### Principles of Nonviolent Communication
+
+
+These [principles](https://www.cnvc.org/Training/NVC-Concepts) from the Center for Nonviolent Communication might be helpful:
 
 1.  Differentiate observation from evaluation.
 
@@ -117,8 +121,10 @@ might be helpful:
 
     - A genuine request allows the other person to give you a gift.
 
-The Four Agreements, By Don Miguel Ruiz
----------------------------------------
+
+### The Four Agreements
+
+In his book *The Four Agreements: A Practical Guide to Personal Wisdom*, Don Miguel Ruiz advises:
 
 1. **Be Impeccable with your Word:** Speak with integrity. Say only what you mean. Avoid using the Word to speak against yourself or to gossip about others. Use the power of your Word in the direction of truth and love.
 
